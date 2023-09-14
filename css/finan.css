@@ -1,0 +1,32 @@
+body{
+    background-color: blue;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.thumb{
+    margin-top: 200px;
+    /* padding: 50px; */
+    color: aliceblue;
+    border-color: aquamarine;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+}
+.wraper-main{
+    margin:0 auto;
+}
+.nav-flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.containe{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.unic{
+    margin-top: 250px;
+}
